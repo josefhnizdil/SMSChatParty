@@ -1,0 +1,59 @@
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\bin\Debug\SMSChatParty.exe
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\bin\Debug\SMSChatParty.pdb
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\bin\Debug\SMSChatParty.xml
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\SMSChatParty.Resources.resources
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\SMSChatParty.exe
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\SMSChatParty.xml
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\SMSChatParty.pdb
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\SMSChatParty.HlavniForm.resources
+C:\Documents and Settings\hnizdilj\Local Settings\Data aplikací\Temporary Projects\SMSChatParty\obj\x86\Debug\SMSChatParty.oprogramu.resources
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.exe
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.xml
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.pdb
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.exe
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.pdb
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.xml
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\ResolveAssemblyReference.cache
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.HlavniForm.resources
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Resources.resources
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.oprogramu.resources
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\GenerateResource.read.1.tlog
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\GenerateResource.write.1.tlog
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.PripojeniTelefonu.resources
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.nevhodnesms.resources
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Nevhodne_vlozit.resources
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.nastaveni.resources
+\\czpl01sw-fs03\userhomes$\hnizdilj\my documents\visual studio 2010\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Projektor.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.exe
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.xml
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.pdb
+G:\Práce\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.exe
+G:\Práce\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.pdb
+G:\Práce\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.xml
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.nastaveni.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Nevhodne_vlozit.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.HlavniForm.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Resources.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.nevhodnesms.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.oprogramu.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.PripojeniTelefonu.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Projektor.resources
+G:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.vbproj.GenerateResource.Cache
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.exe
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.xml
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.pdb
+L:\Práce\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.exe
+L:\Práce\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.pdb
+L:\Práce\Projects\SMSChatParty\SMSChatParty\bin\Debug\SMSChatParty.xml
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.nastaveni.resources
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Nevhodne_vlozit.resources
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.HlavniForm.resources
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Resources.resources
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.nevhodnesms.resources
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.oprogramu.resources
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.PripojeniTelefonu.resources
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.Projektor.resources
+L:\Práce\Projects\SMSChatParty\SMSChatParty\obj\x86\Debug\SMSChatParty.vbproj.GenerateResource.Cache
